@@ -1,2 +1,2 @@
 # cuzwhynot
-DEvJams'25
+DevJams'25
